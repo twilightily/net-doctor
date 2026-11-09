@@ -1,8 +1,10 @@
-A mini project built as a team to enhance the understanding of how socket programming works and even every network related terms. Vibecoded with understanding...
+A mini project built as a team to enhance the understanding of how socket programming works and even every network related terms. 
 
 # Network Diagnostic and Path Analysis Tool
 
 A socket-based network diagnostic application that uses **UDP probes** to measure network performance and analyze packet paths. The application collects network metrics such as **round-trip time (RTT), packet loss, delay, and path characteristics**, and correlates these measurements with an **SDN network topology**.
+This network topology was built in mininet
+
 
 ## Features
 
